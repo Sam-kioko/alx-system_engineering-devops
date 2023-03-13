@@ -1,4 +1,4 @@
 #!/bin/bash
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-echo 'Best School' > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-echo 'File \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) conatins the text Best school
+touch '*\\'\''Best School'\''*$?******:)\n'
+echo 'Best School' > '*\\'\''Best School'\''*$?******:)\n'
+echo 'File created'
