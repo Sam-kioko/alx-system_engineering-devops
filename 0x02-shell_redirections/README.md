@@ -1,2 +1,3 @@
-echo - prints “Hello, World”, followed by a new line to the standard output.
-echo - displays a confused smiley "(Ôo)'
+echo 'Hello, World' - prints “Hello, World”, followed by a new line to the standard output.
+echo '"(Ôo)'\' - displays a confused smiley "(Ôo)'
+cat /etc/passwd - displays the content of /etc/passwd file
